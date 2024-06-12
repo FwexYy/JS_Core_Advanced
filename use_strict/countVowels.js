@@ -10,4 +10,4 @@ const totalVowels = countVowelsInString(
   "Practice summer 2024. Modsen. JavaScript. React. Redux"
 );
 
-console.log(`Количество гласных: ${totalVowels}`);
+console.log(`Количество гласных: ${totalVowels}`); // Количество гласных: 14
